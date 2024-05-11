@@ -1,3 +1,0 @@
-npm run dev- localhost
-npm run deploy- gh pages
-npm start- server

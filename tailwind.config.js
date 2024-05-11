@@ -7,7 +7,6 @@ export default {
   theme: {
     extend: {},
   },
-  base: "/react-blog-app/",
   plugins: [],
 }
 
